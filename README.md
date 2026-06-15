@@ -15,8 +15,9 @@ Le projet analyse les images en temps réel pour repérer des points de repère 
 
 ## 📸 Démonstration
 
-> <img width="647" height="508" alt="image1HandTracking" src="https://github.com/user-attachments/assets/038b839b-9ffa-4bf1-8aa9-7ad9ad0db7c0" />
-<img width="633" height="512" alt="image2Handtracking" src="https://github.com/user-attachments/assets/b2da6825-3754-49f6-9051-a20164d2389f" />
+> <img width="633" height="512" alt="image2Handtracking" src="https://github.com/user-attachments/assets/ced0ad82-3f10-40b1-a006-130b14ed22f3" />
+<img width="647" height="508" alt="image1HandTracking" src="https://github.com/user-attachments/assets/f647eea2-58af-448a-8c5f-6cc0c4ee8a90" />
+
 
 ---
 
